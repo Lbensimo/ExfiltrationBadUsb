@@ -1,4 +1,5 @@
 $hookurl = "$dc"
+Write-Host $dc
 # shortened URL Detection
 # if ($hookurl.Length -ne 121){Write-Host "Shortened Webhook URL Detected.." ; $hookurl = (irm $hookurl).url}
 
