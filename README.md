@@ -1,0 +1,1 @@
+⚠️ Ce script est fourni uniquement à des fins éducatives et de sensibilisation à la cybersécurité. Toute utilisation non autorisée de ce code est strictement interdite. L’auteur décline toute responsabilité en cas d’usage malveillant.
